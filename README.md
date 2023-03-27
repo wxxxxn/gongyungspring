@@ -46,19 +46,19 @@
     ![asfdsfda](https://user-images.githubusercontent.com/119999556/227833631-bc8da753-99ec-439a-839b-40170c102183.png)
 
     
-    - 해당 구에 대한 동을 보여줌
+- 해당 구에 대한 동을 보여줌
 - 조회 기능 및 사이드바 구현
+- 
 ![asd (1)](https://user-images.githubusercontent.com/119999556/227833902-f4e04aa5-e08a-4670-8d7b-e1a48fb2af62.png)
 
-    - 해당 주유소 클릭시 사이드바 오픈 및 유가정보
+- 해당 주유소 클릭시 사이드바 오픈 및 유가정보
 - 현재위치
-    ![sfdfasdsfdadfas](https://user-images.githubusercontent.com/119999556/227833859-6143637a-4037-44ca-8f9e-39544fe451d2.png)
 
- 
-    - 현재 위치의 좌표값을 가져와 마커 출력
+ ![sfdfasdsfdadfas](https://user-images.githubusercontent.com/119999556/227833859-6143637a-4037-44ca-8f9e-39544fe451d2.png)
+
+- 현재 위치의 좌표값을 가져와 마커 출력
 - 다양한 이미지 마커 표시
     
  ![화면 캡처 2023-03-24 105919](https://user-images.githubusercontent.com/119999556/227833981-cef59e90-4d73-4928-9e79-e8fa068dde7d.png)
 
-    
-    - 크롤링한 주유소의 좌표값을 가져와 마커표시
+- 크롤링한 주유소의 좌표값을 가져와 마커표시
