@@ -58,6 +58,7 @@
     - 현재 위치의 좌표값을 가져와 마커 출력
 - 다양한 이미지 마커 표시
     
-    ![화면 캡처 2023-03-24 105919.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a95fc68-7d00-413a-88ab-ee884dbff7f0/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2023-03-24_105919.png)
+ ![화면 캡처 2023-03-24 105919](https://user-images.githubusercontent.com/119999556/227833981-cef59e90-4d73-4928-9e79-e8fa068dde7d.png)
+
     
     - 크롤링한 주유소의 좌표값을 가져와 마커표시
