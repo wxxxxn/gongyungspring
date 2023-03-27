@@ -48,14 +48,13 @@
     
     - 해당 구에 대한 동을 보여줌
 - 조회 기능 및 사이드바 구현
-    
-    ![asd.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59d17deb-c4a7-4b9d-a7cf-79add71976da/asd.png)
-    
+![asd (1)](https://user-images.githubusercontent.com/119999556/227833902-f4e04aa5-e08a-4670-8d7b-e1a48fb2af62.png)
+
     - 해당 주유소 클릭시 사이드바 오픈 및 유가정보
 - 현재위치
-    
-    ![sfdfasdsfdadfas.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2563a78d-cf1f-4694-9796-df16d3d372cc/sfdfasdsfdadfas.png)
-    
+    ![sfdfasdsfdadfas](https://user-images.githubusercontent.com/119999556/227833859-6143637a-4037-44ca-8f9e-39544fe451d2.png)
+
+ 
     - 현재 위치의 좌표값을 가져와 마커 출력
 - 다양한 이미지 마커 표시
     
